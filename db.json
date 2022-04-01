@@ -1,0 +1,13 @@
+{
+  "productList": [
+    {
+      "productName": "Mango333",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 250,
+      "comment": "This is not fresh",
+      "date": "2022-03-04T18:30:00.000Z",
+      "id": 2
+    }
+  ]
+}
